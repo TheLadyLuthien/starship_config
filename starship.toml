@@ -94,8 +94,8 @@ charging_symbol = "󱐋 "
 
 [hostname]
 ssh_only = true
-ssh_symbol = "\uf08b9"
-format = '[$ssh_symbol on $hostname]($style)'
+ssh_symbol = "󰢹"
+format = '[$ssh_symbol on $hostname ]($style)'
 # trim_at = '.companyname.com'
 style = "bg:#9A348E"
 disabled = false
