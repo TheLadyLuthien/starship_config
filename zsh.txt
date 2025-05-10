@@ -1,0 +1,11 @@
+
+
+export STARSHIP_CONFIG=~/.config/starship_config/starship.toml
+
+// For Dreamhost
+eval "$(~/bin/starship init zsh)"
+
+// For Everywhere else
+eval "$(starship init zsh)"
+
+
