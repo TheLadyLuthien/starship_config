@@ -97,7 +97,7 @@ ssh_only = true
 ssh_symbol = "\uf08b9"
 format = '$ssh_symbol on $hostname'
 # trim_at = '.companyname.com'
-style = "bg:bg:#9A348E"
+style = "bg:#9A348E"
 disabled = false
 
 # Disable the blank line at the start of the prompt
